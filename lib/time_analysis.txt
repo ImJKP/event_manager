@@ -1,0 +1,4 @@
+Registrations by day of the week
+{"Wednesday"=>7, "Tuesday"=>1, "Monday"=>2, "Thursday"=>5, "Sunday"=>4}
+Registrations by hour:
+{"10"=>1, "13"=>3, "19"=>2, "11"=>2, "15"=>1, "16"=>3, "17"=>1, "1"=>1, "18"=>1, "21"=>2, "20"=>2}
